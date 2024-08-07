@@ -8,10 +8,12 @@ K-Nearest Neighbors (KNN). In the realm of deep learning, the models implemented
 DenseNet121, MobileNet, and Xception. Additionally, this study introduces a hybrid model 
 combining CNN and K-Means algorithms, aiming to leverage the strengths of both
 approaches. 
+
 The dataset was divided into two folders based on their labels: The "Alzheimer’s" folder
 included images graded 1,2, or 3, while the "no Alzheimer’s" folder contained images graded 0.
 This categorization aimed to classify images into binary categories based on the presence or
 absence of Alzheimer’s.
+
 A typical personal computer's CPU is used to implement these algorithms for
 testing, validation, and training. Furthermore, the dataset is supplemented with augmentation
 techniques, which increase its diversity and guarantee thorough model training.
